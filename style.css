@@ -1,0 +1,23 @@
+.container {
+	display: flex;
+	flex-direction: row;
+	width: 400px;
+	margin: auto;
+}
+
+.box {
+	height: 400px;
+	width: 200px;
+}
+
+.blue {
+	background-color: #002b7f;
+}
+
+.yellow {
+	background-color: #fcd116;
+}
+
+.red {
+	background-color: #ce1126;
+}
